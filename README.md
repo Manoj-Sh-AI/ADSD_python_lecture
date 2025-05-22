@@ -1,3 +1,5 @@
 # ADSD_python_lecture
 
-This is test repo for learning purposes
+## Lecture 1
+
+This is test repo for learning purposes. This will be removed soon!!
